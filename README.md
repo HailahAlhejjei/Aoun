@@ -9,7 +9,9 @@ Presented at the **Security & Innovation Fair (SAIF) 2026**: Smart Cities & IoT 
 
 > 📄 **Patent pending.** A patent application has been filed for Aoun. The source code, firmware and technical design details are confidential and are not published in this repository.
 
-![System diagram](media/system-diagram.png)
+![Aoun prototype: victim unit (red) and rescue unit (green)](media/aoun-devices.jpg)
+
+*The working prototype: victim unit (red) and rescue unit (green).*
 
 ---
 
@@ -24,6 +26,8 @@ Presented at the **Security & Innovation Fair (SAIF) 2026**: Smart Cities & IoT 
 **Who it's for:** civil defence, border guards, volunteer rescue teams, desert trips and large gatherings such as Hajj.
 
 ## The Solution
+
+![System diagram](media/system-diagram.png)
 
 Two devices that talk directly over long-range **LoRa** radio:
 
